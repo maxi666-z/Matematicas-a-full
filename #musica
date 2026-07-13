@@ -1,0 +1,37 @@
+<section id="tour">
+
+<h1>🎵 Tour Interactivo</h1>
+
+<p class="intro">
+Recorré cómo la música y las matemáticas se conectan mediante las ondas, las frecuencias y el número π.
+</p>
+
+<div class="timeline">
+
+<div class="paso">
+<div class="numero">1</div>
+<h2>¿Qué es una onda?</h2>
+<p>El sonido viaja mediante ondas que pueden representarse con funciones matemáticas.</p>
+</div>
+
+<div class="paso">
+<div class="numero">2</div>
+<h2>La frecuencia</h2>
+<p>Cada nota musical tiene una frecuencia distinta. Cuanto mayor es la frecuencia, más agudo es el sonido.</p>
+</div>
+
+<div class="paso">
+<div class="numero">3</div>
+<h2>¿Dónde aparece π?</h2>
+<p>Las funciones seno y coseno describen las ondas del sonido y utilizan el número π constantemente.</p>
+</div>
+
+<div class="paso">
+<div class="numero">4</div>
+<h2>Matemática + Música</h2>
+<p>Las escalas musicales, las vibraciones y los instrumentos siguen patrones matemáticos.</p>
+</div>
+
+</div>
+
+</section>
